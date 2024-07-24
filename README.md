@@ -1,5 +1,7 @@
 # Welcome to lidarr
 
+[![App Status](https://argocd-internal.spirit-dev.net/api/badge?name=lidarr-turingpi&revision=true&showAppName=true)](https://argocd-internal.spirit-dev.net/applications/lidarr-turingpi)
+
 ## Table of content
 
 - [Welcome to lidarr](#welcome-to-lidarr)

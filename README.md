@@ -4,9 +4,7 @@
 
 ## Table of content
 
-- [Welcome to lidarr](#welcome-to-lidarr)
-  - [Table of content](#table-of-content)
-  - [Installation process](#installation-process)
+[[_TOC_]]
 
 ## Installation process
 

@@ -756,7 +756,10 @@ data:
       "preload": false,
       "refresh": "5s",
       "schemaVersion": 40,
-      "tags": [],
+      "tags": [
+        "xArr",
+        "lidarr"
+      ],
       "templating": {
         "list": [
           {
